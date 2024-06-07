@@ -1,0 +1,6 @@
+[submodule "libc_db"]
+	path = libc_db
+	url = https://github.com/niklasb/libc-database
+[submodule "cogs/syscalls"]
+	path = cogs/syscalls
+	url = https://github.com/Kileak/syscalls
